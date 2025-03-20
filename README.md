@@ -148,16 +148,16 @@ Computer Science undergraduate passionate about mobile app development with Flut
 
 <h2 align="center"><u><b>💬 Contact Me</b></u></h2>
 <div align="center">
-  <a href="https://www.facebook.com/yourusername" target="_blank">
+  <a href="https://web.facebook.com/ridmika.wasanthadeva" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/shax.il.__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/ridmike-wasanthadeva-774a56257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:yourname@example.com" target="_blank">
+  <a href="mailto:ridmikew@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
