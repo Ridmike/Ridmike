@@ -116,7 +116,7 @@ Computer Science undergraduate passionate about mobile app development with Flut
   </a>
 </p>
 
-<h3 align="center">Backend as a Service</h3>
+<h3 align="center">Backend as a Services</h3>
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
